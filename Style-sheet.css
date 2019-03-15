@@ -1,0 +1,82 @@
+body{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ; 
+}
+
+#secondtop-bar{
+background-color:  #09093e;
+color: white;
+padding: 12px 0 12px 8px;
+width: 100%;
+}
+
+#top-bar{
+    /*background-image: url("image/waeclogo.png");*/ 
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+#white-background{ 
+    background-color: white;
+    height: 40px;
+    width: 100%;
+}
+
+#blue-background{
+    background-color: #1b1090;
+    width: 100%;
+    color: white;
+    padding: 12px 0 12px 12px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+#purle-background{
+    background-color: #aca6f0;
+    width: 100%;
+    padding: 17px 17px 17px 17px;
+}
+
+.navyblue{
+    background-color: #09093e;
+    color: #aca6f0;
+    padding: 10px 0 10px 10px;
+    font-weight: 500;
+}
+
+.tablee{
+    color: black;
+    background-color: yellow;
+    text-align: left;
+}
+
+td{
+    border-collapse: collapse;
+    border: 2px solid white;
+    padding: 2px 0 2px 6px;
+}
+
+.scoreField{
+    background-color: yellow;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 5px solid white;
+}
+
+input{
+    border: none;
+    width: 385px;
+}
+
+.card-use{
+    width: 780px;
+}
+
+.card-use1{
+    width: 385px;
+}
